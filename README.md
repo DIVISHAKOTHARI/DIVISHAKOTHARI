@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- Aesthetic Animated Wave Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=👋%20Hi%20there,%20I'm%20Divisha kothari!&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=👋%20Hi%20there,%20I'm%20Divishakothari!&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%" />
 
 
   <!-- Animated Typing Title -->
