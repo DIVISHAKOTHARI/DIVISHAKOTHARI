@@ -1,6 +1,9 @@
-# 👋 Hey there, I'm Divisha Kothari!
 
 <div align="center">
+
+  <!-- Aesthetic Animated Wave Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=👋%20Hi%20there,%20I'm%20Divisha kothari!&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%" />
+
 
   <!-- Animated Typing Title -->
   <a href="https://git.io/typing-svg">
@@ -60,18 +63,11 @@
 
 ---
 # 📊 **GitHub Activity**
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DIVISHAKOTHARI&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIVISHAKOTHARI&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
 ---
-
 <br />
 
 <div align="center">
 
-> *"The best way to predict the future is to invent it."* — Alan Kay
+> *"Exploring Myself & Emerging Technologies 
 
 </div>
